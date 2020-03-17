@@ -380,7 +380,7 @@ preview-2
   border: 1px solid #fff;
   border-radius: 50%;
   color: #ffffff;
-  content: "";
+  content: "\f007";
   cursor: pointer;
   font: 100 30px/50px FontAwesome;
   height: 50px;
