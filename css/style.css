@@ -1166,6 +1166,14 @@ div#preloader {
   transition: 0.4s;
 }
 
+.awesome-img>a img
+{
+  width: 560px; 
+  height: 250px;  
+  object-size : cove;
+}
+
+
 .add-actions {
   background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
   bottom: 30px;
